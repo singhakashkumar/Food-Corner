@@ -1,5 +1,6 @@
 # food_corner
 
+Added screen recording to demonstrate working of app.
 A new Flutter project.
 
 ## Getting Started
